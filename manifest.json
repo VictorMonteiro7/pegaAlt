@@ -1,6 +1,6 @@
 {
-  "name": "Teste",
-  "description": "Build an Extension!",
+  "name": "Pega Alt",
+  "description": "Pega textos alternativos do instagram e salva em um arquivo .txt",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
